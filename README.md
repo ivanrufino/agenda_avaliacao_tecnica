@@ -1,6 +1,6 @@
 <h1>Avaliação técnica</h1>
 <h3>Instalação</h3>
-<p>Dump da base de dados se encontra em confi/migration/dump.sql</p>
+<p>Dump da base de dados se encontra em config/migration/dump.sql</p>
 <h3>Sistema</h3>
 </p>Foi utilizado para este projeto </p>
 <ul>
